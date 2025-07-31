@@ -1,0 +1,52 @@
+body {
+    margin: 1rem auto;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    max-width: 300px;
+    /* Add max-width to make the form responsive */
+}
+
+label {
+    /* Add label style */
+    color: #5f9341;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    /* Add box-sizing to reduce the wide input field*/
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+}
+
+button {
+    background-color: #5f9341;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#delete-btn {
+    background-color: #e1684d;
+}
+
+ul {
+    margin: 10px 0 0 -30px;
+}
+
+li {
+    list-style: none;
+    padding: 5px;
+}
+
+
+li a {
+    color: #728ce8;
+    text-decoration: none;
+
+}
