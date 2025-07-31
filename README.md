@@ -4,7 +4,9 @@ A lightweight Chrome extension to capture, save, and manage URLs directly from y
 
 > **This project is a clear demonstration of my ability to build a functional browser tool from end-to-end, apply a mobile-first UI, and work responsibly with Chrome APIs.**
 
-![Screenshot of Leads Tracker](/Images/gif.gif)
+<p align="center">
+    <img src="/Images/gif.gif" alt="Screenshot of Leads Tracker">
+</p>
 
 **👉 [Live Demo](https://chrome-extension-zeta-six.vercel.app/)**
 
