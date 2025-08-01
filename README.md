@@ -36,8 +36,8 @@ A lightweight Chrome extension to capture, save, and manage URLs directly from y
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-    cd YOUR_REPOSITORY
+    git clone https://github.com/Evelyn-PA/chrome-extension
+    cd chrome-extension
     ```
 
 2.  **Load the extension in Chrome:**
